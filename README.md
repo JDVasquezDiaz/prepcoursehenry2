@@ -1,2 +1,1 @@
-# prepcoursehenry2
-segundo intento repositorio prueba
+este proyecto es la segunda prueba de como crear un supositorio y clonarlo desde github a mi escritorio local
